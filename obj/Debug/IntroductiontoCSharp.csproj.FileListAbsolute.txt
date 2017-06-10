@@ -1,0 +1,6 @@
+C:\Users\vishn\Documents\Visual Studio 2015\Projects\IntroductiontoCSharp\IntroductiontoCSharp\bin\Debug\IntroductiontoCSharp.exe.config
+C:\Users\vishn\Documents\Visual Studio 2015\Projects\IntroductiontoCSharp\IntroductiontoCSharp\bin\Debug\IntroductiontoCSharp.exe
+C:\Users\vishn\Documents\Visual Studio 2015\Projects\IntroductiontoCSharp\IntroductiontoCSharp\bin\Debug\IntroductiontoCSharp.pdb
+C:\Users\vishn\Documents\Visual Studio 2015\Projects\IntroductiontoCSharp\IntroductiontoCSharp\obj\Debug\IntroductiontoCSharp.csprojResolveAssemblyReference.cache
+C:\Users\vishn\Documents\Visual Studio 2015\Projects\IntroductiontoCSharp\IntroductiontoCSharp\obj\Debug\IntroductiontoCSharp.exe
+C:\Users\vishn\Documents\Visual Studio 2015\Projects\IntroductiontoCSharp\IntroductiontoCSharp\obj\Debug\IntroductiontoCSharp.pdb
